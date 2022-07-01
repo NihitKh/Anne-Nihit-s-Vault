@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "e65385afdf825b28",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7a7bab03e60ade7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Shared Vault Workflow.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "376044b71baabb39",
+    "type": "split",
+    "children": [
+      {
+        "id": "cbb0043ec689e57b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a03052010e3ba5e3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6a5a53cd49877d27",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4b6055374238769c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cee1be26076e4782",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6a53e90c4d20903",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Shared Vault Workflow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e7a7bab03e60ade7",
+  "lastOpenFiles": [
+    "Shared Vault Workflow.md",
+    "How to commit changes to Github Desktop.md",
+    "How to Pull Changes From Github Desktop.md",
+    "Celebratory File.md",
+    "Types of links.md"
+  ]
+}
