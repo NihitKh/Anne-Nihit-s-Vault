@@ -1,0 +1,10 @@
+- [ ] Do a brain dump in the shared vault
+- [ ] Come up with a better name for this
+- [ ] This vault is supposed to be the one stop thing for Anne, all things technical
+- [ ] Documentation for not only obsidian, but other apps
+- [ ] Can we integrate aanya & vitty into this?
+- [ ] Go through Anne's categories if she needs them to be revised in Marvin
+- [ ] Create a roadmap with upcoming, planning features, maybe in Notion
+- [ ] Create a bunch of projects for this thing & assign them a review or a due date to get them out of my head
+- [ ] We can have like 2 tags "anne" & "nihit", then these can have nested tags, which I can pull via a dataview code, these tags are supposed to be like the smart lists in custom alerts, i.e. they are supposed to be empty, if not, I would get a notification, we wiil figure out the notification thing down the road.
+- [ ] Regulate time spend on actual work v/s talking
