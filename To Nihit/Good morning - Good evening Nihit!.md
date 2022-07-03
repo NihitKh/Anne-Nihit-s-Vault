@@ -8,3 +8,11 @@ Anyway HEY!  Happy to meet up with your day!
 
 Always our love,
 Us
+
+
+
+- [ ] We can basically have a joint journal for things like this, good idea!
+
+I wanted to be at the meeting & mostly because I was excited about the thing that we have been working on & to introduce baby panda to the leaderboard but had some relatives over, so went for dinner
+
+You have an interesting time ahead of you today, I hope you enjoy the time with Jon & RJ
