@@ -6,3 +6,15 @@ Could we do it?  Have you had other ideas?
 
 
 - [ ] Think of something Nihit!
+
+
+### Nihit's Thoughts
+I think that the name should be easy enough to understand & pronounce. So my suggestion would be
+- Learning With Anne & Nihit
+- Anne & Nihit
+- All Things Tutorials
+	- But this restricts us to tutorials, so no.
+- Lifelong Learners
+	- I really like this one, there is one more channel with the same name, it's not that big, yeah so in my opinion, this is it.
+	
+
