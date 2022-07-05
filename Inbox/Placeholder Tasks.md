@@ -58,3 +58,6 @@ Dr. Marvin and Ann
 - [ ] we both have information/tasks to be organized (medical to multiple, etc.) and trying to work out a system from our different content.  Similar goals.
 
 - [ ] Dr. Marvin, "You will get there too.""
+
+
+![[2022-07-05_15-36-02.jpg]]
