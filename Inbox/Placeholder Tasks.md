@@ -63,3 +63,43 @@
 ![[2022-07-05_15-36-02.jpg]]
 
 ![[2022-07-05_19-36-42.jpg]]
+
+Change things that reduce stress levels
+
+Less frustrated
+
+More open to new things
+
+Figure out which apps are being used (tech in general)
+
+to make life comfortable
+
+First
+	how to - flight school
+	how to - lyt workshop
+	how to - shared lyt workshop
+
+Passion about technology (how to use better and that it works better for people)
+
+It makes an impact in our life (going over cost and reduce financial stress)
+
+we can take care of financial stress and put them to better use
+
+Most over 50 etc. don't have patience curiosity or time
+
+Us on the otherhand have these things and light up like a panda in figuring it out
+
+63 ... 
+
+most older people (tech is new) Nihit's GM calls on what'sap ... does something silly ... frustrated, grumpy, over accounts, too many passwords ... using GF account
+
+freak out with different directions
+
+leave from home and sort it out
+
+really good job online learning ... that's who we are for grumpy old people
+
+but forgot where file was
+
+come back.  
+
