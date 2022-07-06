@@ -12,7 +12,7 @@
 - [ ] Regulate time spend on actual work v/s talking
 
 
-Dr. Marvin and Ann
+### Dr. Marvin and Ann
 - [ ] Purpose of the Project
 
 - [ ] Tutorials
