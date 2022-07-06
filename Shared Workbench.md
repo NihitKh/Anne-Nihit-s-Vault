@@ -1,4 +1,10 @@
-[Google](https://mail.google.com/mail/u/0/#inbox)
-- fg
-- gfg
-	- qf`dff
+- Vaults
+	- Personal Nihit
+		- The Brainforest → His Main Vault
+			- Not synced
+			- But Shared with Anne in the form of link → Figure Out How To Do So
+	- Personal Anne 
+		- Anne's Brainforest → Her Main Vault (Old One)
+		- Multiple Work → New Vault Started With LYT
+	- Shared
+		- Annni → Anne & Nihit's Shared Vault
