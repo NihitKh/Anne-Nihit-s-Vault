@@ -62,9 +62,8 @@
 
 ![[2022-07-05_15-36-02.jpg]]
 
-<<<<<<< Updated upstream
+
 ![[2022-07-05_19-36-42.jpg]]
-=======
 ![[2022-07-05_19-36-42.jpg]]
 
 Change things that reduce stress levels
@@ -105,5 +104,3 @@ really good job online learning ... that's who we are for grumpy old people
 but forgot where file was
 
 come back to this later 
-
->>>>>>> Stashed changes
