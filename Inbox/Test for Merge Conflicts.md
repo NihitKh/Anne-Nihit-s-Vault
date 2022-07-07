@@ -1,1 +1,1 @@
-Remove the double period..
+Remove the double period
