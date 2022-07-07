@@ -5,6 +5,12 @@
 .obsidian/
 .obsidian/**
 
+\.idea/*
+*/.idea/*
+.idea/
+.idea/**
+
+
 # Ignore JSON files
 *.json
 .vault-stats
